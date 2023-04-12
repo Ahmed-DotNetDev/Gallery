@@ -1,5 +1,5 @@
 # Gallery
-    Gallery using HTML and CSS 
+    Gallery using HTML and CSS  
 
 
 
